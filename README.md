@@ -5,6 +5,7 @@ what do you meme
 Based on Bubble Talk
 
 ##Introduction by Joseph:
+
 	Throughout my academic career in SUNY New Paltz (coming in as a freshman), I’ve started learning Java my first semester in Foundations with Dos Reis. 
     Since then, I’ve taken almost all of the computer science classes that I could fit in my schedule: Web Page Design, Visual Programming, Programming for Media, CPS I, II, and III, Assembly and OOP. 
     Through these classes, I’ve managed to learn Java and messed around with C++, HTML, CSS, and (some) JavaScript and MySQL. 
